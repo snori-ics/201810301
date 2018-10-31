@@ -25,6 +25,8 @@ namespace _201810301
         public MainPage()
         {
             InitializeComponent();
+            string abc = "abc";
+            int i = 10;
         }
     }
 }
