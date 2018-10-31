@@ -24,7 +24,7 @@ namespace _201810301
     {
         public MainPage()
         {
-            this.InitializeComponent();
+            InitializeComponent();
         }
     }
 }
