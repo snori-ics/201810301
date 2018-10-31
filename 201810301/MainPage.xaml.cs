@@ -27,6 +27,10 @@ namespace _201810301
             InitializeComponent();
             string abc = "abc";
             int i = 10;
+
+            string def;
+
+            def = "def";
         }
     }
 }
