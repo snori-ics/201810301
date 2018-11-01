@@ -25,7 +25,7 @@ namespace _201810301
         public MainPage()
         {
             InitializeComponent();
-            string abc = "abc";
+            //string abc = "abc"; issue#2 this is not required.
             int i = 10;
 
             string def;
